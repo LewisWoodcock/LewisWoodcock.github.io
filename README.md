@@ -6,4 +6,4 @@ Portfolio website for myself.
 Domain: lewiswoodcock.me
 Registered at Namecheap
 Username: lwoodocck
-Password: Longtemper2!
+Password: ususal 2
